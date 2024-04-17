@@ -1,4 +1,5 @@
 # cloud-native-monitoring-app
+A simple app that displays CPU and Memory usage.
 
 ### 1. Build a Docker Image
 Run `docker build -t [choose_repository_name] .`
