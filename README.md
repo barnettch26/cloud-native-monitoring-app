@@ -4,7 +4,7 @@ A simple app that displays CPU and Memory usage.
 ### 1. Build a Docker Image
 Run `docker build -t [choose_repository_name] .`
 
-Example: `docker build -t my-flask-app`
+Example: `docker build -t my-flask-app .`
 
 ### 2. Make a Docker Container
 Use the command `docker images` so see a list of docker images. Then, use the Image ID of the created image.
